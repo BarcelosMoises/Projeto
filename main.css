@@ -85,3 +85,11 @@ header img{
 #articles .posts a:hover{
     text-decoration: underline;
 }
+
+/*Rodapé*/
+
+footer{
+    background: linear-gradient(to left, #ee0979, #ff6a00);
+    padding: 16px 0;
+    color: white;
+}
